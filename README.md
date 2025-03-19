@@ -34,6 +34,22 @@ Caso utilize **conda-forge**:
 
 `conda install -c conda-forge polars`
 
+## Base de Dados
+Devido ao tamanho das bases fornecidas, não foi possível adicionar elas ao GitHub. O link para download de cada base está abaixo. Para abrir os arquivos corretamente no Notebook, siga as etapas:
+
+Baixe e extraia os arquivos:
+
+* Salve os arquivos em uma nova pasta.
+* Crie uma pasta chamada Data dentro dela.
+* Extraia os arquivos .gz na pasta Data.
+* Acesse e rode o notebook: Após extrair os arquivos, abra o Jupyter Notebook e execute o código.
+
+* [Pedidos (order.json)](https://data-architect-test-source.s3-sa-east-1.amazonaws.com/order.json.gz) 
+* [Usuários (consumers.csv)](https://data-architect-test-source.s3-sa-east-1.amazonaws.com/consumer.csv.gz)
+* [Merchants (restaurant.csv)](https://data-architect-test-source.s3-sa-east-1.amazonaws.com/restaurant.csv.gz) 
+* [Marcação de usuários que participaram do teste A/B (ab_- test_ref.csv)](https://data-architect-test-source.s3-sa-east-1.amazonaws.com/ab_test_ref.tar.gz) 
+
+
 ## **Outras Ferramentas**
 
 Para auxiliar na criação das tabelas relacionadas à proposta de novas campanhas, foi utilizada uma planilha no Google Sheets. A planilha pode ser acessada através do link abaixo:  
