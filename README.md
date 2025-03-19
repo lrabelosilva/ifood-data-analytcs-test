@@ -1,8 +1,8 @@
 # iFood Data Analytics Test
 
-## **DescriÃ§Ã£o** 
+## **Descrição** 
 
-Este projeto consiste em um case de Data Analytics para o iFood. A anÃ¡lise foi realizada utilizando Python no Jupyter Notebook via Anaconda Navigator (2.6.3).
+Este projeto consiste em um case de Data Analytics para o iFood. A análise foi realizada utilizando Python no Jupyter Notebook via Anaconda Navigator (2.6.3).
 
 ## **Tecnologias Utilizadas**
 
@@ -18,13 +18,13 @@ Este projeto consiste em um case de Data Analytics para o iFood. A anÃ¡lise fo
 * os  
 * scipy.stats  
 * math  
-* **polars** (necessÃ¡rio instalar separadamente)
+* **polars** (necessário instalar separadamente)
 
-## **InstalaÃ§Ã£o do Polars**
+## **Instalação do Polars**
 
-Para esta anÃ¡lise, foi escolhida a biblioteca **Polars** ao invÃ©s do **PySpark**, principalmente devido a fatores de desempenho e praticidade ao rodar localmente.
+Para esta análise, foi escolhida a biblioteca **Polars** ao invés do **PySpark**, principalmente devido a fatores de desempenho e praticidade ao rodar localmente.
 
-O **Polars** nÃ£o vem instalado por padrÃ£o no Anaconda. Para instalÃ¡-lo, utilize um dos comandos abaixo:
+O **Polars** não vem instalado por padrão no Anaconda. Para instalá-lo, utilize um dos comandos abaixo:
 
 Se estiver usando **pip** dentro do Anaconda:
 
@@ -36,5 +36,5 @@ Caso utilize **conda-forge**:
 
 ## **Outras Ferramentas**
 
-Para auxiliar na criaÃ§Ã£o das tabelas relacionadas Ã  proposta de novas campanhas, foi utilizada uma planilha no Google Sheets. A planilha pode ser acessada atravÃ©s do link abaixo:  
+Para auxiliar na criação das tabelas relacionadas à proposta de novas campanhas, foi utilizada uma planilha no Google Sheets. A planilha pode ser acessada através do link abaixo:  
 [https://docs.google.com/spreadsheets/d/1azySnk4JsbT6tvl\_gDiKMAFL5bqUGpwek09SvcgsAzs/edit?gid=985188743\#gid=985188743](https://docs.google.com/spreadsheets/d/1azySnk4JsbT6tvl_gDiKMAFL5bqUGpwek09SvcgsAzs/edit?gid=985188743#gid=985188743)
